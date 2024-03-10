@@ -8,6 +8,7 @@ import tensorflow as tf
 from werkzeug.utils import secure_filename
 from fastapi.middleware.cors import CORSMiddleware
 
+
 # Keras
 from tensorflow.keras.applications.imagenet_utils import preprocess_input, decode_predictions
 from tensorflow.keras.models import load_model
