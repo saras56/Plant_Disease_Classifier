@@ -3,10 +3,13 @@ pandas
 seaborn
 matplotlib
 scikit-learn
-tensorflow==2.5.0
+tensorflow
 ipykernel
 fastapi
 uvicorn
 python-multipart
 pillow
-tensorflow-serving-api==2.5.0
+tensorflow-serving-api
+opencv-python
+tqdm
+imutils
